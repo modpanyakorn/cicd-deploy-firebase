@@ -1,1 +1,1 @@
-# CI/CD on Firebase
+# CI/CD using Github Action and Deploy on Firebase
